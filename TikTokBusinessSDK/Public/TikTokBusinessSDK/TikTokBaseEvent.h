@@ -1,1 +1,1 @@
-/Users/irwin/dev/welling/tiktok-business-ios-sdk/TikTokBusinessSDK/TikTokBaseEvent.h
+../../TikTokBaseEvent.h
