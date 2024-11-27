@@ -1,1 +1,1 @@
-/Users/irwin/dev/welling/tiktok-business-ios-sdk/TikTokBusinessSDK/TikTokConstants.h
+../../TikTokConstants.h
